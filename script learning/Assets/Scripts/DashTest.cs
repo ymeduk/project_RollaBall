@@ -35,6 +35,6 @@ public class DashTest : AbilityTest
 
         yield return new WaitForSeconds(dashDuration);
 
-        rb.velocity = Vector3.zero;
+        rb.velocity = Vector3.one;
     }
 }
