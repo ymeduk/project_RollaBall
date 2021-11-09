@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scene/Minigame 1video intro.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
