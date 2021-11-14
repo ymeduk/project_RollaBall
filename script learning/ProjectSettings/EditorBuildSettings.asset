@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scene/Loading 1.unity
     guid: 10424ea2b53699c419e2700a80019b52
   - enabled: 1
+    path: Assets/Scene/room1.unity
+    guid: 5b1d39f06d29bb049be02fa95038d6dc
+  - enabled: 1
     path: Assets/Scene/Minigame 1video intro.unity
     guid: e2106844d4ac4e74a974794f5072df70
   - enabled: 1
