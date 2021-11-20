@@ -12,6 +12,7 @@ TagManager:
   - Hit
   - Coin
   - house
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX
